@@ -1,0 +1,6 @@
+[submodule "computreev3"]
+	path = computreev3
+	url = git@github.com:computree/computree-v3.git
+[submodule "pluginlvox"]
+	path = pluginlvox
+	url = git@github.com:computree/computree-plugin-lvox
