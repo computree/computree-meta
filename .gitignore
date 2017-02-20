@@ -39,6 +39,8 @@ CMakeLists.txt.user*
 
 # Local makefiles
 Makefile
+Makefile.Debug
+Makefile.Release
 
 # Computree specific
 ComputreeInstallRelease
